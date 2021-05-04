@@ -1,6 +1,7 @@
 # Enter your code here. Read input from STDIN. Print output to STDOUT
 #echo "Enter the name of the student: "
 #echo "Enter the marks of the student: "
+#adding comments for git
 
 read n  
 read m
